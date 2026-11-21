@@ -4,4 +4,4 @@
   <img alt="Maano Industries" src="./banner-light.png" width="100%">
 </picture>
 
-Maano Industries is a software studio. We build products for businesses, for the people they serve.
+Maano Industries is a software studio. We build products for businesses and for the people they serve.
